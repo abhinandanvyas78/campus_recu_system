@@ -89,10 +89,10 @@ project-code/
 
 | Platform | Link |
 |----------|------|
-| **GitHub** | https://github.com/ashish8513/CampusAI-Recruitment-Prediction |
-| **Vercel UI** | Import repo on [vercel.com](https://vercel.com) → Root: `frontend` → See [DEPLOY.md](DEPLOY.md) |
+| **GitHub** | https://github.com/abhinandanvyas78/campus_recu_system |
+| **Vercel UI** | Import repo on [vercel.com](https://vercel.com) → Root: `frontend` → |
 | **Docker local** | `docker compose -f docker-compose.prod.yml up --build` → http://localhost:3000 |
-| **Docker Hub** | `ashish8513/campusai-frontend` (push via DEPLOY.md) |
+
 
 ---
 
@@ -203,6 +203,7 @@ Original single-file app moved to `legacy/` for reference. Use the new **Next.js
 
 ---
 
-## Author
+## connect
 
-Campus Recruitment Prediction — Enhanced to **CampusAI** Full-Stack Gen AI Platform for college project submission.
+Email:abhinandanvyas7811@gmail.com
+
